@@ -1,8 +1,8 @@
 """This module contains configurations."""
 
 # Relative file paths.
-IN_FILE = "onepassword_logins.txt"
-OUT_FILE = "keepass_logins.csv"
+IN_FILE = "onepassword_data.txt"
+OUT_FILE = "keepass_data.csv"
 LOG_FILE = "log.txt"
 
 # These are the default fields that are read from

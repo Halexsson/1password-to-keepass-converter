@@ -2,7 +2,7 @@
 reading text files exported from 1password.
 """
 
-def read_text_file(in_file):
+def read_file(in_file):
     """Returns new dictionary of arrays with lines, split in paragraphs.
 
     input_file: Text file that should be split.
